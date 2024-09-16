@@ -12,7 +12,7 @@ This Project Provides An Default CV Website Template To Use Freely As You Want
 
 (https://github.com/RicardoAMMartins/CV-Resume-Website/blob/design-experiment/public/vite.svg?raw=true)
 
-[(https://github.com/RicardoAMMartins/CV-Resume-Website/blob/design-experiment/public/vite.svg)]
+[!(https://github.com/RicardoAMMartins/CV-Resume-Website/blob/design-experiment/public/vite.svg)]
 
 
 
