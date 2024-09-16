@@ -2,7 +2,7 @@
 
 This Project Provides An Default CV Website Template To Use Freely As You Want  
 
-## Every Tool Used In This Project:
+## Every Tool Used In This Project
 
 - [React](https://react.dev)
 
@@ -12,6 +12,7 @@ This Project Provides An Default CV Website Template To Use Freely As You Want
 
 (https://github.com/RicardoAMMartins/CV-Resume-Website/blob/design-experiment/public/vite.svg?raw=true)
 
+[![](https://github.com/RicardoAMMartins/CV-Resume-Website/blob/design-experiment/public/vite.svg)]
 
 
 
