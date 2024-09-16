@@ -7,19 +7,13 @@ This Project Provides An Default CV Website Template To Use Freely As You Want
 - [React](https://react.dev)
 
 ![React Image](https://github.com/RicardoAMMartins/CV-Resume-Website/blob/design-experiment/public/react.svg?raw=true)
+<img src="https://github.com/RicardoAMMartins/CV-Resume-Website/blob/design-experiment/public/react.svg?raw=true" alt="Logo" width="200" height="100">
 
 - [Vite](https://vitejs.dev)
 
-(https://github.com/RicardoAMMartins/CV-Resume-Website/blob/design-experiment/public/vite.svg?raw=true)
+![React Image](https://github.com/RicardoAMMartins/CV-Resume-Website/blob/design-experiment/public/vite.svg?raw=true)
 
-[![vite](https://github.com/RicardoAMMartins/CV-Resume-Website/blob/design-experiment/public/vite.svg)]
-
-
-
-// dsaniodaso
-
-/*
-
+<!-- 
 How to show links
 
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
@@ -42,4 +36,4 @@ export default tseslint.config({
 })
 ```
 
-*/
+-->
