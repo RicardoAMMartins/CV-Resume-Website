@@ -6,18 +6,28 @@ This Project Provides An Default CV Website Template To Use Freely As You Want
 
 - [React](https://react.dev)
 
-(https://github.com/RicardoAMMartins/CV-Resume-Website/blob/design-experiment/public/react.svg)
+(https://github.com/RicardoAMMartins/CV-Resume-Website/blob/design-experiment/public/react.svg?raw=true)
 
 - [Vite](https://vitejs.dev)
 
-(https://github.com/RicardoAMMartins/CV-Resume-Website/blob/design-experiment/public/vite.svg)
+(https://github.com/RicardoAMMartins/CV-Resume-Website/blob/design-experiment/public/vite.svg?raw=true)
 
+
+
+
+// dsaniodaso
+
+/*
+
+How to show links
 
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-<> Test for commenting
-// dsaniodaso
+Italic words
+
 - Configure the top-level `parserOptions` property like this:
+
+How to include js
 
 ```js
 export default tseslint.config({
@@ -30,3 +40,5 @@ export default tseslint.config({
   },
 })
 ```
+
+*/
