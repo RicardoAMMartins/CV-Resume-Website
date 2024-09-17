@@ -7,11 +7,11 @@ This Project Provides An Default CV Website Template To Use Freely As You Want
 - [React](https://react.dev)
 
 
-<img src="https://github.com/RicardoAMMartins/CV-Resume-Website/blob/design-experiment/public/react.svg?raw=true" alt="React Image" width="300" height="300" >
+<img src="https://github.com/RicardoAMMartins/CV-Resume-Website/blob/design-experiment/public/react.svg?raw=true" alt="React Image" width="300" height="200" >
 
 - [Vite](https://vitejs.dev)
 
-<img src="https://github.com/RicardoAMMartins/CV-Resume-Website/blob/design-experiment/public/vite.svg?raw=true" alt="Vite Image" width="300" height="300" >
+<img src="https://github.com/RicardoAMMartins/CV-Resume-Website/blob/design-experiment/public/vite.svg?raw=true" alt="Vite Image" width="300" height="200" >
 
 <!-- 
 
