@@ -2,11 +2,10 @@
 
 This Project Provides An Default CV Website Template To Use Freely As You Want
 
-# Libraries Used In This ProjectS
+# Libraries Used In This Project
 
-# - [React](https://react.dev) [Vite](https://vitejs.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=react,vite&theme=light&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react&theme=light&perline=1)](https://skillicons.dev) --> [React](https://react.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite&theme=light&perline=1)](https://skillicons.dev) --> [Vite](https://vitejs.dev)
 
 <!--
 
