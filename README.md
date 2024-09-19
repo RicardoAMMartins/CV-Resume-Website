@@ -4,8 +4,8 @@ This Project Provides An Default CV Website Template To Use Freely As You Want
 
 # Libraries Used In This Project
 
-[![My Skills](https://skillicons.dev/icons?i=react&theme=light&perline=1)](https://skillicons.dev) --> [React](https://react.dev)
-[![My Skills](https://skillicons.dev/icons?i=vite&theme=light&perline=1)](https://skillicons.dev) --> [Vite](https://vitejs.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite&theme=light&perline=2)](https://skillicons.dev)
+[React](https://react.dev) | [Vite](https://vitejs.dev)
 
 <!--
 
@@ -24,11 +24,11 @@ export default tseslint.config({
   languageOptions: {
     // other options...
     parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
+      project: ["./tsconfig.node.json", "./tsconfig.app.json"],
       tsconfigRootDir: import.meta.dirname,
     },
   },
-})
+});
 ```
 
 -->
