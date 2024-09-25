@@ -6,7 +6,7 @@ This Project Provides An Default CV Website Template To Use Freely As You Want
 
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite&theme=light&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,&theme=light&perline=3)](https://skillicons.dev)
 
 <p>
 
@@ -14,6 +14,12 @@ This Project Provides An Default CV Website Template To Use Freely As You Want
 
 </p>
 </div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <!--
 
