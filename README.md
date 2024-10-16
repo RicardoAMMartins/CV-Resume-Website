@@ -6,7 +6,7 @@ This Project Provides An Default CV Website Template To Use Freely As You Want
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=light&perline=3" />
+    <img src="https://skillicons.dev/icons?i=react,vite,mui&theme=light&perline=3" />
   </a>
 </p>
 
